@@ -1,0 +1,45 @@
+html {
+  font-size: 10px;
+  font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: indigo
+}
+
+h2 {
+    font-size: 18px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+html {
+    background-color: bisque
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+red {
+    color: red
+}
+
+button {
+    
+}
